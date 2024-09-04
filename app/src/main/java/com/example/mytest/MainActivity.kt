@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
             println(num)
         }
 
+        println("testtest")
+
     }
 }
